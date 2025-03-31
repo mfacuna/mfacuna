@@ -11,4 +11,4 @@ Soy **Ingeniero Civil Informático** y **Desarrollador Fullstack** con más de *
 Me apasiona la innovación y la creación de soluciones eficientes. Puedes explorar mis proyectos y contribuciones en [GitHub](https://github.com/mfacuna).  
 
 ## 📩 Contacto  
-Si quieres conversar sobre tecnología, colaboración en proyectos o simplemente conectar, puedes encontrarme en [LinkedIn](#https://www.linkedin.com/in/matias-acu%C3%B1a-991937127/) o enviarme un correo a **mfacuna90@gmail.com**.  
+Si quieres conversar sobre tecnología, colaboración en proyectos o simplemente conectar, puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/matias-acu%C3%B1a-991937127/) o enviarme un correo a **mfacuna90@gmail.com**.  
